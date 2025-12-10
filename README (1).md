@@ -62,9 +62,6 @@ The dashboard contains 4 interactive pages:
 Dashboard file:  
 `/PowerBI/Spotify_Dashboard.pbix`
 
-Screenshots available:  
-`/Images/`
-
 🔍 Key Insights
 
 - Tracks between 3–3.5 minutes show the highest popularity.  
@@ -72,7 +69,7 @@ Screenshots available:
 - Some artists consistently outperform others in average popularity.  
 - Outliers exist: long tracks (>6 min) can still achieve high popularity.  
 
-Full insights: `/Analysis/Insights.md`
+Find insights in : `/Analysis/Insights.md`
 
 📦 Tools & Technologies
 - Python (Pandas, NumPy, Matplotlib)  
