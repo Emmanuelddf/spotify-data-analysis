@@ -1,0 +1,43 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data / large files
+*.csv
+*.zip
+*.mp4
+*.sqlite
+
+# OS files
+.DS_Store
+Thumbs.db
+# Ignore system/IDE files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.swp
+*.swo
+.DS_Store
+.vscode/
+.ipynb_checkpoints/
+
+# Ignore data, media, outputs
+*.csv
+*.xlsx
+*.zip
+*.mp4
+*.mov
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# Ignore Anaconda configs
+.conda/
+.anaconda/
+.condarc
+.continuum/
